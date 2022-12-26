@@ -8,23 +8,8 @@ body{
     
 }
 
-
-#titre{
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0;
-    margin-bottom: 0;
-    padding:0.1%;
-    background-color: rgb(2, 102, 89); 
-    text-emphasis-color: white;
-    padding-left: 14%;
-    color: white;
-    width: max-content;
-    padding-right: 18.5%;
-
-}
 #ensemble{
-    margin-right: auto;
+    margin-right: 10%;
     margin-left: auto;
     height:100%;
     width: 77.9%;
@@ -40,7 +25,7 @@ body{
     background-color: rgb(195, 250, 243);
     display: inline-block;
     margin: 0;
-   
+
 
 }
 #pp{
@@ -48,6 +33,7 @@ body{
     height: 25%px;
     margin-left: 25%;
     border: solid #000000;
+    
     
 }
 #coldroit{
@@ -57,9 +43,8 @@ body{
     width: fit-content;
     display: inline-block;
     padding: 2%;
-    margin-right: 2%;
 
-    
+    text-align: justify;
 }
 .infocontact{
     display: flex;
@@ -76,6 +61,7 @@ body{
 h2,h3,p{
     margin-left: 15px; 
     margin-bottom: 2%;
+    
 }
 h1{
     margin: 0;
@@ -86,3 +72,4 @@ table{
     margin: 0%;
     padding: 0%;
 }
+
